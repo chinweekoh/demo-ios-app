@@ -1,1 +1,2 @@
-*.swift linguist-detectable=true
+*.swift linguist-detectable=false
+*.rb linguist-detectable=true
