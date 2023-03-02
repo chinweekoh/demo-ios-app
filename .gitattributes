@@ -1,3 +1,4 @@
 *.swift linguist-detectable=false
 *.rb linguist-detectable=true
 *.rb linguist-detectable
+*.swift linguist-detectable=Ruby
